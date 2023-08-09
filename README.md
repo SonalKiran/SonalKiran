@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SonalKiran
-- 👀 I’m interested in risk analytics and business intelligence
-- 🌱 I’m currently learning ETL pipelines and data warehousing
-- 💞️ I’m looking to collaborate on data and risk analytics projects
+- 👋 Hi, I am @SonalKiran
+- :bowtie: I am driven by the pursuit of enabling well-informed decisions based on accurate, unbiased data.
+- 🌱 I am currently improving my data science skills by exploring modeling techniques I have not worked with before.
+- 💞️ I love collaborating on data science and BI projects.
 - 📫 How to reach me ----> sonalkiranhansra@gmail.com
 
 <!---
