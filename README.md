@@ -4,9 +4,9 @@
 </div>
 
 <h2  align="center">‧₊˚📚✩ ₊˚ Check Out My Blog ‧₊˚📚✩ ₊˚</h2>
-<p style="text-align:center"><a href="https://thinknibbles.github.io/">Think Nibbles</a></p>
+<a href="https://thinknibbles.github.io/"><span style="text-align:center">Think Nibbles</span></a>
 
-<p style="text-align:center"><a href="https://thinknibbles.github.io/"><img src="https://img.shields.io/badge/Think%20Nibbles-pink"/></a></p>
+<a href="https://thinknibbles.github.io/"><span style="text-align:center"><img src="https://img.shields.io/badge/Think%20Nibbles-pink"/></span></a>
 
 <h2  align="center">💻 Check Out My Repos 💻</h2>
 
