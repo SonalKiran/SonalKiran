@@ -4,7 +4,7 @@
 </div>
 
 <h2  align="center">‧₊˚📚✩ ₊˚ Check Out My Blog ‧₊˚📚✩ ₊˚</h2>
-- [Think Nibbles](https://thinknibbles.github.io/)
+<a href="https://thinknibbles.github.io/">Think Nibblest</a>
 
 <h2  align="center">💻 Check Out My Repos 💻</h2>
 
