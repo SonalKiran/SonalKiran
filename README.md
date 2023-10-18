@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/SonalKiran/SonalKiran/blob/d447521ea2b258b788676a18bfd6d1030266e54c/images/skh.jpeg" alt="header"/>
+  <img src="https://github.com/SonalKiran/SonalKiran/blob/9775d183f13c0eacde623ff1c2a7d5a2dec60ff9/images/skh.jpeg" alt="header"/>
 </div>
 
 <!---
