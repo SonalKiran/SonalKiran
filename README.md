@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/SonalKiran/SonalKiran/blob/ff0231e1e9937f849b543b550005b813d4d99bd3/images/header.jpeg" alt="header"/>
+  <img src="https://github.com/SonalKiran/SonalKiran/blob/d776f4b0b1b5a2a59476979e6a3fa5681f62fc6c/images/header.jpeg" alt="header"/>
 </div>
 
 <h2  align="center">🤓 Technical Snapshot 👩‍🎓</h2>&nbsp;&nbsp;&nbsp;
