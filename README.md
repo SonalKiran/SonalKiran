@@ -6,7 +6,13 @@
 <h2  align="center">🤓 Technical Snapshot 👩‍🎓</h2>&nbsp;&nbsp;&nbsp;
 
 <p align="center" align='right'>
-SQL, Python, R, Hypothesis Testing, A/B tests, Parametric and non-Parametric tests, Tableau, Matplotlib, Plotly, Bokeh, Seaborn, Machine Learning in scikit-learn, Supervised and Unsupervised Learning, Tensorflow, Keras, Pytorch, Amazon Web Services (AWS), Hadoop, Spark, Hive, Docker, Metabase, JIRA, Git, Zoho, MS Office Suite (Word, Excel, Access, PowerPoint), Agile, Scrum
+Programming: Python, R
+Relational Databases: SQL
+Statistics: Hypothesis Testing, A/B tests, Parametric and non-Parametric tests
+Data Visualization: Tableau, Matplotlib, Plotly, Bokeh, Seaborn
+Machine Learning: Supervised and unsupervised learning, scikit-learn, Tensorflow, Keras, Pytorch
+Big Data: GCP, AWS, Hadoop, Spark, Docker
+Additional Tools: Metabase, JIRA, Git, MS Office Suite
 </p>&nbsp;
 
 <h2  align="center">₊˚📚✩ Check Out My Blog ₊˚📚✩</h2>&nbsp;&nbsp;&nbsp;
