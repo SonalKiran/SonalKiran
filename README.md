@@ -6,13 +6,13 @@
 <h2  align="center">🤓 Technical Snapshot 👩‍🎓</h2>&nbsp;&nbsp;&nbsp;
 
 <p align="left" align='right'>
-**Programming**: Python, R<br>
-**Relational Databases**: SQL<br>
-**Statistics**: Hypothesis Testing, A/B tests, Parametric and non-Parametric tests<br>
-**Data Visualization**: Tableau, Matplotlib, Plotly, Bokeh, Seaborn<br>
-**Machine Learning**: Supervised and unsupervised learning, scikit-learn, Tensorflow, Keras, Pytorch<br>
-**Big Data**: GCP, AWS, Hadoop, Spark, Docker<br>
-**Additional Tools**: Metabase, JIRA, Git, MS Office Suite<br>
+Programming:              Python, R<br>
+Relational Databases:     SQL<br>
+Statistics:               Hypothesis Testing, A/B tests, Parametric and non-Parametric tests<br>
+Data Visualization:       Tableau, Matplotlib, Plotly, Bokeh, Seaborn<br>
+Machine Learning:         Supervised and unsupervised learning, scikit-learn, Tensorflow, Keras, Pytorch<br>
+Big Data:                 GCP, AWS, Hadoop, Spark, Docker<br>
+Additional Tools:         Metabase, JIRA, Git, MS Office Suite<br>
 </p>&nbsp;
 
 <h2  align="center">₊˚📚✩ Check Out My Blog ₊˚📚✩</h2>&nbsp;&nbsp;&nbsp;
